@@ -1,8 +1,11 @@
 # Twitter-Bots
+**Sahil Dev, Jordan Foster, Joshua Goldberg, Gabriel Margolis, Mohammad Subhan**
+
 Twitter bot classification project for CMSC396H, Fall 2020.
 
+### Contents
 - [Twitter-Bots](#twitter-bots)
-    - [Contributors](#contributors)
+    - [Contents](#contents)
   - [Background](#background)
   - [Problem Statement](#problem-statement)
   - [Scope](#scope)
@@ -13,10 +16,6 @@ Twitter bot classification project for CMSC396H, Fall 2020.
   - [Notes](#notes)
     - [Acknowledgements](#acknowledgements)
     - [Disclaimer](#disclaimer)
-
-
-### Contributors
-**Sahil Dev, Jordan Foster, Joshua Goldberg, Gabriel Margolis, Mohammad Subhan**
 
 ## Background
 
