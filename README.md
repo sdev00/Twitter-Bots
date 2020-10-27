@@ -19,7 +19,7 @@ Twitter bot classification project for CMSC396H, Fall 2020.
 
 ## Background
 
-Reports have shown that nearly 48 million accounts on Twitter are bots, and yet Twitter does not distinguish between bot accounts and real users. Therefore, bots have the ability to deceive real users. Bots have been found posting and responding to political tweets, and in 2016, about one-fifth of tweets about the U.S election came from a group of bot accounts. These bots influenced the content that real users saw on their timeline, altering the public perception current events and political figures. For example, bots may show artificial support or anger over the tweet of a politician or content of a news article, while other bots may simply spread misinformation.
+Twitter does not distinguish between bot accounts and real users, but reports estimate that nearly 48 million accounts on Twitter are run by bots. This wide network of bots has the ability to deceive real users. Bots have been found posting and responding to political tweets, and in 2016, about one-fifth of tweets about the U.S election came from a group of bot accounts. These bots influenced the content that real users saw on their timeline, altering the public perception current events and political figures. For example, bots may show artificial support or anger over the tweet of a politician or content of a news article, while other bots may simply spread misinformation.
 
 ## Problem Statement
 
