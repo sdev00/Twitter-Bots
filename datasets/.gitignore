@@ -1,3 +1,5 @@
 *.tsv
 *.tar.gz
 *.json
+MIB/
+*.csv
