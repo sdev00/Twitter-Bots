@@ -10,9 +10,12 @@ Twitter bot classification project for CMSC396H, Fall 2020.
   - [Problem Statement](#problem-statement)
   - [Scope](#scope)
   - [Files](#files)
+    - [datasets](#datasets)
+    - [docs](#docs)
     - [source](#source)
-      - [initialization.ipynb](#initializationipynb)
-      - [classifier.ipynb](#classifieripynb)
+      - [analyze_text.ipynb](#analyze_textipynb)
+      - [[classifier].ipynb](#classifieripynb)
+      - [initialize_mib.ipynb](#initialize_mibipynb)
   - [Notes](#notes)
     - [Acknowledgements](#acknowledgements)
     - [Disclaimer](#disclaimer)
@@ -31,17 +34,29 @@ This work serves only to provide a true/false answer as to whether an account is
 
 ## Files
 
+### datasets
+
+Stores datasets for use in training and testing.
+
+### docs
+
+Contains reports and documents detailing the research.
+
 ### source
 
 Contains source files.
 
-#### initialization.ipynb
+#### analyze_text.ipynb
 
-Initialization work, data scraping, etc.
+Extract data from tweets.
 
-#### classifier.ipynb
+#### [classifier].ipynb
 
 Training and testing classifiers.
+
+#### initialize_mib.ipynb
+
+Main initialization work, data scraping, etc.
 
 ## Notes
 
@@ -51,4 +66,4 @@ We would like to thank Dr. Dave Levin and Dr. Leilani Battle for contributing to
 
 ### Disclaimer
 
-All Twitter accounts and tweets used for training are fully public and are accessible to everyone.
+The data used for this research is from [MIB](http://mib.projects.iit.cnr.it/dataset.html). For privacy, the dataset used in this research will not be made available. Any other Twitter accounts and tweets used for training are fully public and are accessible to everyone.
